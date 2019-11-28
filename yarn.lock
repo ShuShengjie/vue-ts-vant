@@ -613,6 +613,14 @@
     "@babel/helper-create-regexp-features-plugin" "^7.7.4"
     "@babel/helper-plugin-utils" "^7.0.0"
 
+"@babel/polyfill@^7.7.0":
+  version "7.7.0"
+  resolved "https://registry.npm.taobao.org/@babel/polyfill/download/@babel/polyfill-7.7.0.tgz#e1066e251e17606ec7908b05617f9b7f8180d8f3"
+  integrity sha1-4QZuJR4XYG7HkIsFYX+bf4GA2PM=
+  dependencies:
+    core-js "^2.6.5"
+    regenerator-runtime "^0.13.2"
+
 "@babel/preset-env@^7.6.3":
   version "7.7.4"
   resolved "https://registry.npm.taobao.org/@babel/preset-env/download/@babel/preset-env-7.7.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fpreset-env%2Fdownload%2F%40babel%2Fpreset-env-7.7.4.tgz#ccaf309ae8d1ee2409c85a4e2b5e280ceee830f8"
@@ -2382,6 +2390,11 @@ core-js-pure@^3.0.0:
   version "3.4.4"
   resolved "https://registry.npm.taobao.org/core-js-pure/download/core-js-pure-3.4.4.tgz#613b936fa0c0482216f0c93794cd8139886efb53"
   integrity sha1-YTuTb6DASCIW8Mk3lM2BOYhu+1M=
+
+core-js@^2.6.5:
+  version "2.6.10"
+  resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.10.tgz?cache=0&sync_timestamp=1574892433313&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcore-js%2Fdownload%2Fcore-js-2.6.10.tgz#8a5b8391f8cc7013da703411ce5b585706300d7f"
+  integrity sha1-iluDkfjMcBPacDQRzltYVwYwDX8=
 
 core-js@^3.3.2:
   version "3.4.4"

@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "off",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "editor.tabSize": 2,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on"
+}
